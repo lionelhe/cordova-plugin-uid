@@ -12,7 +12,7 @@ The object is not available until after the `deviceready` event.
 		}
 
 ## Installation
-		cordova plugin add cordova plugin add https://github.com/ivanchaz/cordova-plugin-uid
+		cordova plugin add https://github.com/ivanchaz/cordova-plugin-uid
 
 ## Properties
 
