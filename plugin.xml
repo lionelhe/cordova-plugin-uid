@@ -34,9 +34,9 @@
 			</feature>
 		</config-file>
 		<header-file src="src/ios/CDVUID.h" />
-    <source-file src="src/ios/CDVUID.m" />
+		<source-file src="src/ios/CDVUID.m" />
 		<header-file src="src/ios/OpenUDID.h" />
-    <source-file src="src/ios/OpenUDID.m" />
+		<source-file src="src/ios/OpenUDID.m" compiler-flags="-fno-objc-arc"/>
 	</platform>
 
 </plugin>
